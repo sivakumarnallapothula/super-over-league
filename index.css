@@ -1,0 +1,19 @@
+/* Write your code here. */
+.sk {
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.12);
+  max-width: 70%;
+}
+.ok {
+  text-align: center;
+  background-color: 0f172a;
+}
+@media screen and (min-width < 576px) {
+  .ok {
+    background-image: url("https://assets.ccbp.in/frontend/content/react-js/super-over-league-sm-output.png");
+  }
+}
+.he {
+  font-weight: bold;
+  text-align: center;
+  font-family: "Roboto";
+}
